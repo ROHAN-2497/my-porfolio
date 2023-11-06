@@ -1,11 +1,11 @@
 import { Outlet } from "react-router-dom";
-import Navber from "../Components/Navber/Navber";
+import SideNav from "../Components/SideNav/SideNav";
 
 const Main = () => {
     return (
         <div>
             <Outlet></Outlet>
-            <Navber></Navber>
+            <SideNav></SideNav>
         </div>
     );
 };
