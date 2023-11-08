@@ -2,6 +2,7 @@ import { TypeAnimation } from "react-type-animation";
 import img1 from "../../../photo/343617328_1317960939123788_1840975766021119825_n-removebg-preview.png";
 import {  FaFacebook, FaInstagram, FaLinkedinIn, } from "react-icons/fa";
 import MyService from "../../../Components/SideNav/MyService/MyService";
+import Projects from "../../../Components/Projects/Projects";
 
 const Home = () => {
   return (
@@ -43,6 +44,7 @@ const Home = () => {
         </div>
        </div>
       </div>
+      <Projects></Projects>
       <MyService></MyService>
     </div>
   );

@@ -5,7 +5,7 @@ import fdpic2 from "../../../photo/images.jpeg";
 const MyService = () => {
   return (
     <div className="mt-20 mb-20">
-      <h1 className="text-3xl font-bold gray-800 flex justify-center">
+      <h1 className="text-3xl font-bold gray-800 text-[#001b5e] flex justify-center">
         MY SERVICE
       </h1>
       <div className="border-l border-y-2 w-60 mt-10 mx-auto border-stone-200">
