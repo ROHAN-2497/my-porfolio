@@ -3,6 +3,7 @@ import img1 from "../../../photo/343617328_1317960939123788_1840975766021119825_
 import {  FaFacebook, FaInstagram, FaLinkedinIn, } from "react-icons/fa";
 import MyService from "../../../Components/SideNav/MyService/MyService";
 import Projects from "../../../Components/Projects/Projects";
+import Contact from "../../../Components/Contact/Contact";
 
 const Home = () => {
   return (
@@ -46,6 +47,7 @@ const Home = () => {
       </div>
       <Projects></Projects>
       <MyService></MyService>
+      <Contact></Contact>
     </div>
   );
 };

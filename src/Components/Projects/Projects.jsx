@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <div id="projects" className="max-w[1040px] m-auto md:pl-20 p-4 py-16">
       <h1 className="text-4xl font-bold text-center text-[#001b5e]">
-        Projects
+       My Projects
       </h1>
       <p className="text-center py-8">
       Hello There! I'm, Md. Rohan isLam Not only I'm a Diploma Engineer , But also I'm a MERN Stack Developer । Web developing is my passion. That's why i explore with Full Stack development Technology

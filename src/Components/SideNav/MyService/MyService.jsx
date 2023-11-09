@@ -11,7 +11,7 @@ const MyService = () => {
       <div className="border-l border-y-2 w-60 mt-10 mx-auto border-stone-200">
 
       </div>
-      <div className="ml-40 grid grid-cols-3">
+      <div className="ml-40 grid md:grid-cols-3">
        
         <div className="card w-52 mt-20 bg-base-100 shadow-xl image-full">
           <figure>
