@@ -11,10 +11,9 @@ const Projects = () => {
         Projects
       </h1>
       <p className="text-center py-8">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ad nam
-        dignissimos consequuntur modi dolorum eius labore ea quis blanditiis?
+      Hello There! I'm, Md. Rohan isLam Not only I'm a Diploma Engineer , But also I'm a MERN Stack Developer । Web developing is my passion. That's why i explore with Full Stack development Technology
       </p>
-      <div className="grid sm:grid-cols-2 gap-12 ">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-12 ">
         <ProjectItems img={pic1} title='1st projects'></ProjectItems>
         <ProjectItems img={pic2} title="second projects"></ProjectItems>
         <ProjectItems img={pic3} title="third projects"></ProjectItems>
